@@ -21,7 +21,7 @@ The Smart Iris Security System aims to improve security measures by utilizing ir
 - Comprehensive Documentation: Extensive documentation to assist users and developers with installation, configuration, and use.
 
 # System architecture
-The Smart Iris Security System features a modular architecture that combines iris recognition, deep learning, and firebase components. The system's architecture ensures reliability. For a more detailed perspective.
+The Smart Iris Security System features a three layered architecture that combines iris recognition, deep learning, and firebase components. The system's architecture ensures reliability. For a more detailed perspective.
 
 # Contributing
 We welcome contributions! If you like to contribute to the project, please see our Contribution Guidelines.
