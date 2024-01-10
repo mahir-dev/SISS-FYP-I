@@ -18,7 +18,7 @@ The Smart Iris Security System aims to improve security measures by utilizing ir
 - Deep Learning: Advanced algorithms for feature extraction and pattern recognition.
 - User-Friendly Interface: An intuitive and simple interface allows for seamless user engagement.
 - Firebase Realtime Database and Authorization: Effective administration of the iris database to ensure effective storage and retrieval of   user data.
-- Comprehensive Documentation: Extensive documentation to assist users and developers with installation, configuration, and use.
+
 
 # System architecture
 The Smart Iris Security System features a three layered architecture that combines iris recognition, deep learning, and firebase components. The system's architecture ensures reliability. For a more detailed perspective.
